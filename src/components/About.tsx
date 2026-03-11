@@ -54,7 +54,7 @@ const About = () => (
           <p className="text-muted-foreground text-lg leading-relaxed">
             Als inhabergeführtes Unternehmen steht SE Reinigung für persönlichen Service und kompromisslose Qualität. 
             Inhaber Serhat Pacaci und sein eingespieltes Team sorgen seit Jahren für makellose Sauberkeit 
-            in Gewerbe- und Privatimmobilien im Raum Stuttgart. Zuverlässigkeit, Gründlichkeit und absolute 
+            in Gewerbe- und Privatimmobilien im Raum Heilbronn. Zuverlässigkeit, Gründlichkeit und absolute 
             Kundenzufriedenheit sind nicht nur Versprechen – sie sind unser täglicher Anspruch.
           </p>
         </div>

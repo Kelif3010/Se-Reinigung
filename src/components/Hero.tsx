@@ -21,7 +21,7 @@ const Hero = () => {
         >
           <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full border border-primary/30 bg-primary/5 mb-8">
             <span className="w-2 h-2 rounded-full bg-primary animate-pulse" />
-            <span className="text-sm font-medium text-primary">Professionelle Reinigung in Stuttgart</span>
+            <span className="text-sm font-medium text-primary">Professionelle Reinigung in Heilbronn</span>
           </div>
         </motion.div>
 
@@ -41,7 +41,7 @@ const Hero = () => {
           transition={{ duration: 0.8, delay: 0.4 }}
           className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto mb-10"
         >
-          Professionelle Reinigungsdienstleistungen für Gewerbe & Privat im Raum Stuttgart. 
+          Professionelle Reinigungsdienstleistungen für Gewerbe & Privat im Raum Heilbronn. 
           Zuverlässig, gründlich und mit Liebe zum Detail.
         </motion.p>
 

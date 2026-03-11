@@ -27,7 +27,7 @@ const Footer = () => {
               </span>
             </div>
             <p className="text-sm text-muted-foreground leading-relaxed">
-              Professionelle Reinigungsdienstleistungen für Gewerbe & Privat im Raum Stuttgart.
+              Professionelle Reinigungsdienstleistungen für Gewerbe & Privat im Raum Heilbronn.
             </p>
           </div>
 
@@ -55,7 +55,7 @@ const Footer = () => {
               <p>Inhaber: Serhat Pacaci</p>
               <p>Tel: +49 155 66846752</p>
               <p>E-Mail: sereinigungpacaci@gmail.com</p>
-              <p>Einsatzgebiet: Raum Stuttgart</p>
+              <p>Einsatzgebiet: Raum Heilbronn</p>
             </div>
             <div className="flex gap-4 mt-4">
               <Link to="/impressum" className="text-sm text-muted-foreground hover:text-primary transition-colors">Impressum</Link>

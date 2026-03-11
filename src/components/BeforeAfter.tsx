@@ -5,7 +5,7 @@ import beforeAfter2 from "@/assets/before-after-2.jpg";
 import beforeAfter3 from "@/assets/before-after-3.jpg";
 
 const comparisons = [
-  { before: beforeAfter1, after: beforeAfter1, label: "Büroreinigung – Großraumbüro Stuttgart" },
+  { before: beforeAfter1, after: beforeAfter1, label: "Büroreinigung – Großraumbüro Heilbronn" },
   { before: beforeAfter2, after: beforeAfter2, label: "Treppenhausreinigung – Mehrfamilienhaus" },
   { before: beforeAfter3, after: beforeAfter3, label: "Fensterreinigung – Glasfassade" },
 ];

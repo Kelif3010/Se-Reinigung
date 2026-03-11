@@ -9,7 +9,7 @@ const Impressum = () => (
         <p>Inhaber: Serhat Pacaci</p>
         <p>Telefon: +49 155 66846752</p>
         <p>E-Mail: sereinigungpacaci@gmail.com</p>
-        <p>Einsatzgebiet: Raum Stuttgart & Umgebung</p>
+        <p>Einsatzgebiet: Raum Heilbronn & Umgebung</p>
         <p className="pt-4 text-sm">Diese Seite wird in Kürze mit vollständigen Angaben ergänzt.</p>
       </div>
       <Link to="/" className="inline-block mt-8 text-primary hover:underline">← Zurück zur Startseite</Link>
