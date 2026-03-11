@@ -108,17 +108,17 @@ const Contact = () => {
               <div className="p-6 rounded-2xl bg-gradient-card glow-border">
                 <h3 className="text-lg font-bold mb-4 text-foreground">Kontaktdaten</h3>
                 <div className="space-y-4">
-                  <a href="tel:+491637128274" className="flex items-center gap-3 text-muted-foreground hover:text-primary transition-colors">
+                  <a href="tel:+4915566846752" className="flex items-center gap-3 text-muted-foreground hover:text-primary transition-colors">
                     <div className="w-10 h-10 rounded-xl bg-primary/10 flex items-center justify-center flex-shrink-0">
                       <Phone className="w-5 h-5 text-primary" />
                     </div>
-                    <span className="text-sm">+49 163 7128274</span>
+                    <span className="text-sm">+49 155 66846752</span>
                   </a>
-                  <a href="mailto:Pacaciserhat9@gmail.com" className="flex items-center gap-3 text-muted-foreground hover:text-primary transition-colors">
+                  <a href="mailto:sereinigungpacaci@gmail.com" className="flex items-center gap-3 text-muted-foreground hover:text-primary transition-colors">
                     <div className="w-10 h-10 rounded-xl bg-primary/10 flex items-center justify-center flex-shrink-0">
                       <Mail className="w-5 h-5 text-primary" />
                     </div>
-                    <span className="text-sm">Pacaciserhat9@gmail.com</span>
+                    <span className="text-sm">sereinigungpacaci@gmail.com</span>
                   </a>
                   <div className="flex items-center gap-3 text-muted-foreground">
                     <div className="w-10 h-10 rounded-xl bg-primary/10 flex items-center justify-center flex-shrink-0">

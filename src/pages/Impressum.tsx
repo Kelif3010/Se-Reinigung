@@ -7,8 +7,8 @@ const Impressum = () => (
       <div className="space-y-4 text-muted-foreground">
         <p><strong className="text-foreground">SE Reinigung</strong></p>
         <p>Inhaber: Serhat Pacaci</p>
-        <p>Telefon: +49 163 7128274</p>
-        <p>E-Mail: Pacaciserhat9@gmail.com</p>
+        <p>Telefon: +49 155 66846752</p>
+        <p>E-Mail: sereinigungpacaci@gmail.com</p>
         <p>Einsatzgebiet: Raum Stuttgart & Umgebung</p>
         <p className="pt-4 text-sm">Diese Seite wird in Kürze mit vollständigen Angaben ergänzt.</p>
       </div>

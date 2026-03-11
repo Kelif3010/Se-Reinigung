@@ -53,8 +53,8 @@ const Footer = () => {
             <h4 className="font-bold mb-4 text-foreground">Kontakt</h4>
             <div className="space-y-2 text-sm text-muted-foreground">
               <p>Inhaber: Serhat Pacaci</p>
-              <p>Tel: +49 163 7128274</p>
-              <p>E-Mail: Pacaciserhat9@gmail.com</p>
+              <p>Tel: +49 155 66846752</p>
+              <p>E-Mail: sereinigungpacaci@gmail.com</p>
               <p>Einsatzgebiet: Raum Stuttgart</p>
             </div>
             <div className="flex gap-4 mt-4">
